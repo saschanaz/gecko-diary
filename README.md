@@ -1,3 +1,5 @@
+Moved to https://codeberg.org/krosylight/firefox-diary/wiki
+
 # gecko-diary
 Things I learned and want to remember while working on Gecko
 
